@@ -1,4 +1,7 @@
 {
-  "settingsInheritedFrom": "vital-ws/whitesource-config@main"
+  "settingsInheritedFrom": "vital-ws/whitesource-config@main",
+  "scanSettings": {
+  "releaseBranches": ["release"]
+}
 
 }
